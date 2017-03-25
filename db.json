@@ -1,0 +1,33 @@
+{
+  "users": [
+    "teacher", "student"
+  ],
+
+  "content": [
+    {
+      "id": 0,
+      "name": "homework assignment 1"
+    },
+
+    {
+      "id": 1,
+      "name": "homework assignment 2"
+    }
+  ],
+
+  "quizzes": [
+    {
+      "id": 0,
+      "name": "quiz 1"
+    },
+
+    {
+      "id": 1,
+      "name": "quiz 2"
+    }
+  ],
+
+  "grades": [
+    4, 8, 15, 16, 23, 42
+  ]
+}
