@@ -7,7 +7,7 @@
     "json-server": "^0.9.6"
   },
   "scripts": {
-    "start": "json-server --port 6000 --watch db.json"
+    "start": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",
